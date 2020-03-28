@@ -1,0 +1,2 @@
+# ScalaPractice
+Pratice of scala
